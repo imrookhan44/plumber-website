@@ -1,0 +1,30 @@
+.navbarLinks {
+    font-weight: 400;
+    font-style: normal;
+    color: white !important;
+    font-size: 12px;
+    line-height: 23px;
+
+}
+
+#collasible-nav-dropdown {
+    font-weight: 400;
+    font-style: normal;
+    color: white !important;
+    font-size: 12px;
+    line-height: 23px;
+}
+
+
+
+#mainNavbar {
+    background-color: #1f1d1d;
+    
+}
+.navDropdownItems{
+    font-size: 12px;
+}
+.navDropdownItems:hover{
+color:  red !important;
+background: none !important;
+}

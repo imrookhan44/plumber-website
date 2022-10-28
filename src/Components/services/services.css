@@ -1,0 +1,27 @@
+#mainServices {
+    padding: 100px 100px;
+}
+
+#service2 {
+    padding: 50px 100px;
+    padding-left: 0 !important;
+    margin-right: 0;
+    margin-right: 50px;
+}
+
+div .col h5 {
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #222222;
+    padding: 0px 50px;
+}
+
+#icons2:hover{
+    cursor: pointer;
+    background-color: coral;
+ 
+
+}

@@ -1,0 +1,38 @@
+#background1 {
+    background-color: #04091E;
+    height: 55vh;
+    padding: 50px 50px;
+}
+
+.footerHeading{
+    font-size:18px ;
+    font-family: Poppins, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #ffffff;
+    line-height: 22px;
+
+}
+.footerParagraph{
+font-size: 14px;
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #777777;
+    line-height: 23px;
+}
+.footerName{
+    color: tomato;
+}
+#button-addon2{
+    background-color: #F53F51;
+    color: #ffffff;
+}
+
+#icons{
+    padding: 2px;
+    cursor: pointer;
+}
+#icons:hover{
+    color: #F53F51;
+}

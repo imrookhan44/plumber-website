@@ -1,0 +1,45 @@
+#mainHead {
+
+    padding: 200px 90px;
+    background-image: url(./../../assets/banner.jpg);
+
+
+
+}
+
+#head1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 86px;
+    color: #ffffff;
+}
+
+#head2 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 23px;
+    color: #ffffff;
+}
+
+.buyButton {
+    background-color: #FF3738;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 50px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 32px;
+}
+
+.buyButton:hover {
+    background-color: transparent;
+    border: white solid 2px;
+}
+
+.image {
+    opacity: 0.5;
+}

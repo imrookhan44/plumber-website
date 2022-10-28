@@ -1,0 +1,23 @@
+#exampleFormControlInput2{
+    height: 10vh;
+}
+.messageButton{
+    border: none;
+    background-color: #F53F51;
+    border-radius: 50px;
+    padding: 12px;
+    width: 190px;
+    color:white ;
+font-size: 14px;
+font-family: Poppins-Regular, sans-serif; 
+font-style: normal;
+line-height: 42px;
+font-weight: 600;
+}
+.messageButton:hover{
+    background-color: rgb(59, 211, 118);
+    color: black ;
+}
+#bg{
+    background-color:#F9F9FF;
+}
